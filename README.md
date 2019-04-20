@@ -7,7 +7,7 @@ This is my basic macOS setup for developing apps.
 - Install node (brew install node)
 - Install yarn (brew install yarn)
 - Install GitFlow (brew install git-flow-avh)
-- Configurar Variáveis globais do GitHub (user.name user.email)
+- Setup global git config (user.name user.email)
 - Install pod (sudo gem install cocoapods)
 - Install Watchman (brew install watchman)
 - Install Google Chrome (https://www.google.com/chrome/browser/features.html)
@@ -16,15 +16,15 @@ This is my basic macOS setup for developing apps.
 - Install Mamp
 - Install Firebase-hosting-cli (npm install -g firebase-tools)
 - Install Felix Terminall (https://github.com/KrauseFx/what-terminal-is-felix-using)
-- Configurar Ctrl+Shift+N no iTerm
+- Setup Ctrl+Shift+N on iTerm
 - Fastlane (brew cask install fastlane)
-- Install Visual Studio Code - brew cask install visual-studio-code
+- Install Visual Studio Code (brew cask install visual-studio-code)
 - Install React-native CLI
-- Fazer o lauchPackager.command executar através do iTerm ao invés do terminal padrão
+- Make lauchPackager.command run through iTerm instead of default Term
 - Install Xcode
-- JDK atualizado
+- JDK (updated)
 - Install Android Studio
-- Configurar android Home (https://facebook.github.io/react-native/docs/getting-started.html#3-configure-the-android-home-environment-variable) depois do felix terminal
+- Setup Android Home (https://facebook.github.io/react-native/docs/getting-started.html#3-configure-the-android-home-environment-variable) depois do felix terminal
 - Install Visual Studio Plugins (VsCode Extensions)
 - Install Heroku
 - Install Sequel Pro (https://sequelpro.com/download)
@@ -32,14 +32,14 @@ This is my basic macOS setup for developing apps.
 - Install Evernote (https://evernote.com/intl/pt-br/download)
 - Install Slack (https://slack.com/downloads/) ou Franz
 - Install Genymotion
-- Comprar e instalar Sip
-- Instalar Ignite Cli (npm install -g react-native-ignite)
-- Colocar chave SSH do GitHub e Bitbucket (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+- Buyd & Install Sip
+- Install Ignite Cli (npm install -g react-native-ignite)
+- Setup SSH Kyes on GitHub and Bitbucket (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 - Trello ou Franz
 - Asset Catalog Creator
 - Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins) (qlimagesize, qlmarkdown, qlcolorcode)
-- Instalar Postman
-- Instalar Zeplin
+- Install Postman
+- Install Zeplin
 - VLC
 - Spectacle (Editar tecla de Tela cheia)
 
