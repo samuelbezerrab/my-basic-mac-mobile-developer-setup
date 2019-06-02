@@ -22,7 +22,7 @@ This is my basic macOS setup for developing apps.
 - Install React-native CLI
 - Make lauchPackager.command run through iTerm instead of default Term
 - Install Xcode
-- JDK (updated)
+- JDK (brew tap AdoptOpenJDK/openjdk; brew cask install adoptopenjdk8)
 - Install Android Studio
 - Setup Android Home (https://facebook.github.io/react-native/docs/getting-started.html#3-configure-the-android-home-environment-variable) depois do felix terminal
 - Install Visual Studio Plugins (VsCode Extensions)
