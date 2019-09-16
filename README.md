@@ -39,8 +39,8 @@ This is my basic macOS setup for developing apps.
 - Asset Catalog Creator
 - Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins) (qlimagesize, qlmarkdown, qlcolorcode)
 - Install Postman
+- Install SimSim - https://github.com/dsmelov/simsim
 - Install Zeplin
-- VLC
 - Spectacle (Editar tecla de Tela cheia)
 
 ## Visual Studio Code Extensions
