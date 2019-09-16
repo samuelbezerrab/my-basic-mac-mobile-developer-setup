@@ -40,6 +40,7 @@ This is my basic macOS setup for developing apps.
 - Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins) (qlimagesize, qlmarkdown, qlcolorcode)
 - Install Postman
 - Install SimSim - https://github.com/dsmelov/simsim
+- Instlal iOS Console app - https://lemonjar.com/iosconsole/
 - Install Zeplin
 - Spectacle (Editar tecla de Tela cheia)
 
