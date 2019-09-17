@@ -44,6 +44,7 @@ This is my basic macOS setup for developing apps.
 - Install Zeplin
 - Spectacle (Editar tecla de Tela cheia)
 - Install Dev Clenar (https://github.com/vashpan/xcode-dev-cleaner) - Clena a lot of space when you need it
+- Install Realm Studio - https://realm.io/products/realm-studio
 
 ## Visual Studio Code Extensions
 
