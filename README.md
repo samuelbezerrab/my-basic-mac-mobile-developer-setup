@@ -12,7 +12,7 @@ This is my basic macOS setup for developing apps.
 - Install Watchman (brew install watchman)
 - Install Google Chrome (https://www.google.com/chrome/browser/features.html)
 - Install Python
-- Install Pip
+- Install Pip (sudo -H python -m ensurepip)
 - Install Mamp
 - Install Firebase-hosting-cli (npm install -g firebase-tools)
 - Install Felix Terminall (https://github.com/KrauseFx/what-terminal-is-felix-using)
