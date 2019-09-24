@@ -47,6 +47,7 @@ This is my basic macOS setup for developing apps.
 - Install Realm Studio - https://realm.io/products/realm-studio
 - If needed: Newer version of Xcode device support whitout upgrading Xcode - https://github.com/iGhibli/iOS-DeviceSupport
 - Install Appcenter (mainly for codepush) -  npm install -g appcenter-cli
+- Install Visual git client Fork - https://git-fork.com
 
 ## Visual Studio Code Extensions
 
