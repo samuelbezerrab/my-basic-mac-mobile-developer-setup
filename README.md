@@ -43,7 +43,7 @@ This is my basic macOS setup for developing apps.
 - Instlal iOS Console app - https://lemonjar.com/iosconsole/ && libimobiledevice - brew install --HEAD libimobiledevice
 - Install Zeplin
 - Spectacle (Editar tecla de Tela cheia)
-- Install Dev Clenar (https://github.com/vashpan/xcode-dev-cleaner) - Clena a lot of space when you need it
+- Install Dev Clenar (https://github.com/vashpan/xcode-dev-cleaner) - Clean a lot of space when you need it
 - Install Realm Studio - https://realm.io/products/realm-studio
 - If needed: Newer version of Xcode device support whitout upgrading Xcode - https://github.com/iGhibli/iOS-DeviceSupport
 - Install Appcenter (mainly for codepush) -  npm install -g appcenter-cli
