@@ -50,7 +50,7 @@ This is my basic macOS setup for developing apps.
 - Install Visual git client Fork - https://git-fork.com
 - Install Gitmoji - npm i -g gitmoji-cli
 - Install nvm - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
-- Make nvm default node with a soft link - ln -s $(which node) /usr/local/bin/node
+- Make nvm default node with a soft link (Optional) - ln -s $(which node) /usr/local/bin/node
 - Install handbrake - https://handbrake.fr
 
 ## Visual Studio Code Extensions
