@@ -52,6 +52,7 @@ This is my basic macOS setup for developing apps.
 - Install nvm - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 - Make nvm default node with a soft link (Optional) - ln -s $(which node) /usr/local/bin/node
 - Install handbrake - https://handbrake.fr
+- Reactotron - https://github.com/infinitered/reactotron/releases
 
 ## Visual Studio Code Extensions
 
