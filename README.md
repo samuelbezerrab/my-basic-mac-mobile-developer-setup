@@ -19,29 +19,27 @@ This is my basic macOS setup for developing apps.
 - Setup Ctrl+Shift+N on iTerm
 - Fastlane (brew cask install fastlane)
 - Install Visual Studio Code (brew cask install visual-studio-code)
-- Install React-native CLI
+- Install React-native CLI - npm install -g react-native-cli
 - Make lauchPackager.command run through iTerm instead of default Term
-- Install Xcode
+- Install Xcode - https://apps.apple.com/br/app/xcode/id497799835?mt=12
 - JDK (brew tap AdoptOpenJDK/openjdk; brew cask install adoptopenjdk8) || (brew cask install java)
-- Install Android Studio
+- Install Android Studio - https://developer.android.com/studio/
 - Setup Android Home (https://facebook.github.io/react-native/docs/getting-started.html#3-configure-the-android-home-environment-variable) depois do felix terminal
 - Install Visual Studio Plugins (VsCode Extensions)
-- Install Heroku
+- Install Heroku - brew tap heroku/brew && brew install heroku
 - Install Sequel Pro (https://sequelpro.com/download)
-- Install Spotify (https://www.spotify.com/br/download/mac/)
-- Install Evernote (https://evernote.com/intl/pt-br/download)
 - Install Slack (https://slack.com/downloads/) ou Franz
-- Install Genymotion
-- Buyd & Install Sip
+- Install Genymotion - https://www.genymotion.com/fun-zone/
+- Buy & Install Sip
 - Install Ignite Cli (npm install -g react-native-ignite)
 - Setup SSH Kyes on GitHub and Bitbucket (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-- Trello ou Franz
-- Asset Catalog Creator
+- Trello or Franz
+- Asset Catalog Creator - https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456?mt=12
 - Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins) (qlimagesize, qlmarkdown, qlcolorcode)
-- Install Postman
+- Install Postman - https://www.getpostman.com/downloads/
 - Install SimSim - https://github.com/dsmelov/simsim
 - Instlal iOS Console app - https://lemonjar.com/iosconsole/ && libimobiledevice - brew install --HEAD libimobiledevice
-- Install Zeplin
+- Install Zeplin (if you use it) - https://zeplin.io/
 - Spectacle (Editar tecla de Tela cheia)
 - Install Dev Clenar (https://github.com/vashpan/xcode-dev-cleaner) - Clean a lot of space when you need it
 - Install Realm Studio - https://realm.io/products/realm-studio
