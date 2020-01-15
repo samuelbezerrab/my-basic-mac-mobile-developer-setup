@@ -4,8 +4,8 @@ This is my basic macOS setup for developing apps.
 
 ## Apps:
 - Install Homebrew (https://brew.sh/index_pt-br.html)
-- Install node (brew install node)
-- Install yarn (brew install yarn)
+- Install Node Version Manager (brew install nvm)
+- Install Yarn Verson Manager (brew install yvm)
 - Install GitFlow (brew install git-flow-avh)
 - Setup global git config (user.name user.email)
 - Install pod (sudo gem install cocoapods)
