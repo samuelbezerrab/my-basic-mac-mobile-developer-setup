@@ -51,7 +51,8 @@ This is my basic macOS setup for developing apps.
 - Make nvm default node with a soft link (Optional) - ln -s $(which node) /usr/local/bin/node
 - Install handbrake - https://handbrake.fr
 - Reactotron - https://github.com/infinitered/reactotron/releases
-
+- Install Control room - https://github.com/twostraws/ControlRoom
+- Install Poes - https://github.com/AvdLee/Poes
 ## Visual Studio Code Extensions
 
 **Geral:**
