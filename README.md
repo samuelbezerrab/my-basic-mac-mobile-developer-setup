@@ -54,6 +54,8 @@ This is my basic macOS setup for developing apps.
 - Install Control room - https://github.com/twostraws/ControlRoom
 - Install Poes - https://github.com/AvdLee/Poes
 - Magnet - https://apps.apple.com/us/app/magnet/id441258766?mt=12
+- FVM - https://github.com/dashixiong91/fvm/blob/master/README.md
+
 ## Visual Studio Code Extensions
 
 **Geral:**
