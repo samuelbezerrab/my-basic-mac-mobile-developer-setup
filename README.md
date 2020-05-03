@@ -53,6 +53,7 @@ This is my basic macOS setup for developing apps.
 - Reactotron - https://github.com/infinitered/reactotron/releases
 - Install Control room - https://github.com/twostraws/ControlRoom
 - Install Poes - https://github.com/AvdLee/Poes
+- Magnet - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 ## Visual Studio Code Extensions
 
 **Geral:**
