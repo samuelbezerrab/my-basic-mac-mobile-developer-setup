@@ -55,6 +55,7 @@ This is my basic macOS setup for developing apps.
 - Install Poes - https://github.com/AvdLee/Poes
 - Magnet - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 - FVM - https://github.com/dashixiong91/fvm/blob/master/README.md
+- Flutter without Metal (iOS) - https://github.com/acoutts/flutter-engines-no-metal
 
 ## Visual Studio Code Extensions
 
