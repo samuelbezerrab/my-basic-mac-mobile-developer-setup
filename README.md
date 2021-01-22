@@ -24,7 +24,7 @@ This is my basic macOS setup for developing apps.
 - Install Xcode - https://apps.apple.com/br/app/xcode/id497799835?mt=12
 - JDK (brew tap AdoptOpenJDK/openjdk; brew cask install adoptopenjdk8) || (brew cask install java)
 - Install Android Studio - https://developer.android.com/studio/
-- Setup Android Home (https://facebook.github.io/react-native/docs/getting-started.html#3-configure-the-android-home-environment-variable) depois do felix terminal
+- Setup Android Home (https://reactnative.dev/docs/environment-setup) depois do felix terminal
 - Install Visual Studio Plugins (VsCode Extensions)
 - Install Heroku - brew tap heroku/brew && brew install heroku
 - Install Sequel Pro (https://sequelpro.com/download)
