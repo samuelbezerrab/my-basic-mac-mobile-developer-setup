@@ -37,7 +37,7 @@ This is my basic macOS setup for developing apps.
 - Install Genymotion - https://www.genymotion.com/fun-zone/
 
 ## Flutter
-- FVM - https://github.com/dashixiong91/fvm/blob/master/README.md
+- FVM - (brew tap dashixiong91/fvm && brew install fvm)
 - Flutter without Metal (iOS) - https://github.com/acoutts/flutter-engines-no-metal
 
 ## React Native:
