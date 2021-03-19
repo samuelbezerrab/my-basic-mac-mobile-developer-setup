@@ -1,6 +1,6 @@
 # My Basic Mac Mobile Developer Setup
 
-This is my basic macOS setup for developing apps.
+I have already developed native and cross platform apps. Here is a list of things to configure and improve development on some platforms (Android, iOS, Flutter and React Native)
 
 ## Configuration:
 - Setup global git config (user.name user.email)
