@@ -55,7 +55,7 @@ This is my basic macOS setup for developing apps.
 - Install Sequel Pro (https://sequelpro.com/download)
 - Install Firebase-hosting-cli (npm install -g firebase-tools)
 
-### Others
+## Others
 - Install Google Chrome (https://www.google.com/chrome/browser/features.html)
 - Install Slack (https://slack.com/downloads/) ou Franz
 - Buy & Install Sip
