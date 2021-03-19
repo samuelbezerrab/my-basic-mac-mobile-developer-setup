@@ -9,7 +9,7 @@ This is my basic macOS setup for developing apps.
 
 ## Basic Developer Setup:
 - Install Homebrew (https://brew.sh/index_pt-br.html)
-= Iterm `brew install iterm2`
+- Iterm `brew install iterm2`
 - Install GitFlow (brew install git-flow-avh)
 - Fastlane (brew install fastlane)
 - Install Visual Studio Code (brew install visual-studio-code)
