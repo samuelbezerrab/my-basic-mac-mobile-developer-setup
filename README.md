@@ -2,12 +2,12 @@
 
 I have already developed native and cross platform apps. Here is a list of things to configure and improve development on some platforms (Android, iOS, Flutter and React Native)
 
-## Configuration:
+## Configuration
 - Setup global git config (user.name user.email)
 - Install Felix Terminall (https://github.com/KrauseFx/what-terminal-is-felix-using)
 - Setup SSH Kyes on GitHub and Bitbucket (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
-## Basic Developer Setup:
+## Basic Developer Setup
 - Install Homebrew (https://brew.sh/index_pt-br.html)
 - iTerm `brew install iterm2`
 - Install GitFlow `brew install git-flow-avh`
@@ -18,7 +18,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Install Gitmoji  `npm i -g gitmoji-cli`
 - Install Pip `sudo -H python -m ensurepip`
 
-### iOS:
+### iOS
 - Install Xcode - https://apps.apple.com/br/app/xcode/id497799835?mt=12
 - Install pod `sudo gem install cocoapods`
 - Asset Catalog Creator - https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456?mt=12
@@ -30,7 +30,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Install Control room - https://github.com/twostraws/ControlRoom
 - Install Poes - https://github.com/AvdLee/Poes
 
-### Android:
+### Android
 - JDK `brew tap AdoptOpenJDK/openjdk; brew install adoptopenjdk8` || `brew install java`
 - Install Android Studio - https://developer.android.com/studio/
 - Setup Android Home (https://reactnative.dev/docs/environment-setup), after felix terminal
@@ -40,7 +40,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - FVM - `brew tap dashixiong91/fvm && brew install fvm`
 - Flutter without Metal (iOS) - https://github.com/acoutts/flutter-engines-no-metal
 
-## React Native:
+## React Native
 - Install Node Version Manager (brew install nvm)
 - Make nvm default node with a soft link (Optional) - `ln -s $(which node) /usr/local/bin/node`
 - Install Yarn Verson Manager `brew install yvm`
