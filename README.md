@@ -34,6 +34,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - JDK `brew tap AdoptOpenJDK/openjdk; brew install adoptopenjdk8` || `brew install java`
 - Install Android Studio - https://developer.android.com/studio/
 - Setup Android Home (https://reactnative.dev/docs/environment-setup), after felix terminal
+- Accept all SDK Licenses `yes | sdkmanager --licenses`
 - Install Genymotion - https://www.genymotion.com/fun-zone/
 
 ## Flutter
