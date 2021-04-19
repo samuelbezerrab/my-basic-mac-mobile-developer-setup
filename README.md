@@ -65,4 +65,4 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Sourcetree - `brew install sourcetree`
 - Magnet - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 - Discord - https://discord.com/download
-- AirServer - Turn your computer AirPlay and Google cast compatible - https://www.airserver.com/Mac
+- AirServer - Turn your computer AirPlay compatible - https://www.airserver.com/Mac
