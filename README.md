@@ -24,7 +24,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Asset Catalog Creator - https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456?mt=12
 - Install SimSim - https://github.com/dsmelov/simsim
 - Instlal iOS Console app - https://lemonjar.com/iosconsole/ && libimobiledevice - `brew install --HEAD libimobiledevice`
-- Install Dev Cleanar (https://github.com/vashpan/xcode-dev-cleaner) - Clean a lot of space when you need it
+- Install Dev Cleaner (https://github.com/vashpan/xcode-dev-cleaner) - Clean a lot of space when you need it
 - Install Realm Studio - https://realm.io/products/realm-studio
 - If needed: Newer version of Xcode device support whitout upgrading Xcode - https://github.com/iGhibli/iOS-DeviceSupport
 - Install Control room - https://github.com/twostraws/ControlRoom
