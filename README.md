@@ -20,7 +20,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Install Pip `sudo -H python -m ensurepip`
 
 ### iOS
-- Install pod `sudo gem install cocoapods`
+- Install cocoapods `sudo gem install cocoapods`
 - Asset Catalog Creator - https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456?mt=12
 - Install SimSim - https://github.com/dsmelov/simsim
 - Instlal iOS Console app - https://lemonjar.com/iosconsole/ && libimobiledevice - `brew install --HEAD libimobiledevice`
