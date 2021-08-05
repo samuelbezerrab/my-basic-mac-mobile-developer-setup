@@ -8,6 +8,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Setup SSH Kyes on GitHub and Bitbucket (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 ## Basic Developer Setup
+- Install Xcode (https://apps.apple.com/us/app/xcode/id497799835?mt=12) 
 - Install Homebrew (https://brew.sh/index_pt-br.html)
 - iTerm `brew install iterm2`
 - Install GitFlow `brew install git-flow-avh`
