@@ -39,7 +39,6 @@ I have already developed native and cross platform apps. Here is a list of thing
 
 ## Flutter
 - FVM - `brew tap dashixiong91/fvm && brew install fvm`
-- Flutter without Metal (iOS) - https://github.com/acoutts/flutter-engines-no-metal
 
 ## React Native
 - Install Node Version Manager (brew install nvm)
