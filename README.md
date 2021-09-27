@@ -38,7 +38,7 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Install Genymotion - https://www.genymotion.com/fun-zone/
 
 ## Flutter
-- FVM - `brew tap dashixiong91/fvm && brew install fvm`
+- FVM - `brew tap leoafarias/fvm && brew install fvm`
 
 ## React Native
 - Install Node Version Manager (brew install nvm)
