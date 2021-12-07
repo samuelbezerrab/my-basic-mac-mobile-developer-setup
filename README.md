@@ -16,7 +16,6 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Install Visual Studio Code `brew install visual-studio-code`
 - Install Postman - https://www.getpostman.com/downloads/
 - Install Visual git client Fork - https://git-fork.com
-- Install Gitmoji  `npm i -g gitmoji-cli`
 - Install Pip `sudo -H python -m ensurepip`
 
 ### iOS
@@ -61,7 +60,6 @@ I have already developed native and cross platform apps. Here is a list of thing
 - Buy & Install Sip
 - Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins) (qlimagesize, qlmarkdown, qlcolorcode)
 - Install handbrake - https://handbrake.fr
-- Sourcetree - `brew install sourcetree`
 - Magnet - https://apps.apple.com/us/app/magnet/id441258766?mt=12
 - Discord - https://discord.com/download
 - AirServer - Turn your computer AirPlay compatible - https://www.airserver.com/Mac
